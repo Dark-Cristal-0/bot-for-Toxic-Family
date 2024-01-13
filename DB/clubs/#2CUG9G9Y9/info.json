@@ -5,7 +5,7 @@
   "type": "inviteOnly",
   "badgeId": 8000023,
   "requiredTrophies": 32000,
-  "trophies": 1059833,
+  "trophies": 1031841,
   "members": [
     {
       "tag": "#9G0UGV88V",
@@ -32,7 +32,7 @@
       "name": "Dark Light",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 48504,
+      "trophies": 48775,
       "icon": {
         "id": 28000087
       }
@@ -48,23 +48,23 @@
       }
     },
     {
-      "tag": "#GCR2JJR0",
-      "name": "гою",
-      "nameColor": "0xffff8afb",
-      "role": "member",
-      "trophies": 42416,
-      "icon": {
-        "id": 28000148
-      }
-    },
-    {
       "tag": "#9YPVGPQG8",
       "name": "🔥FireLord🔥",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 42403,
+      "trophies": 42436,
       "icon": {
         "id": 28000331
+      }
+    },
+    {
+      "tag": "#GCR2JJR0",
+      "name": "гою",
+      "nameColor": "0xffff8afb",
+      "role": "member",
+      "trophies": 42424,
+      "icon": {
+        "id": 28000148
       }
     },
     {
@@ -72,7 +72,7 @@
       "name": "Vorona🥶",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 40003,
+      "trophies": 40104,
       "icon": {
         "id": 28000196
       }
@@ -82,7 +82,7 @@
       "name": "Artemluk",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 36742,
+      "trophies": 36789,
       "icon": {
         "id": 28000360
       }
@@ -92,7 +92,7 @@
       "name": "YT_VITAL_SHARK",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 36209,
+      "trophies": 36337,
       "icon": {
         "id": 28000374
       }
@@ -102,7 +102,7 @@
       "name": "AņťůMýđäķ",
       "nameColor": "0xffffce89",
       "role": "senior",
-      "trophies": 35879,
+      "trophies": 36078,
       "icon": {
         "id": 28000261
       }
@@ -122,9 +122,19 @@
       "name": "Svdent❤️",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 35445,
+      "trophies": 35454,
       "icon": {
         "id": 28000183
+      }
+    },
+    {
+      "tag": "#P2YUC2RRU",
+      "name": "🛡️Dark|King🦋",
+      "nameColor": "0xffff9727",
+      "role": "senior",
+      "trophies": 33008,
+      "icon": {
+        "id": 28000361
       }
     },
     {
@@ -132,7 +142,7 @@
       "name": "⚔️|Vlad|⚔️",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 32935,
+      "trophies": 32988,
       "icon": {
         "id": 28000173
       }
@@ -142,9 +152,9 @@
       "name": "ᴘᴏɪɴᴛ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 32874,
+      "trophies": 32972,
       "icon": {
-        "id": 28000386
+        "id": 28000107
       }
     },
     {
@@ -152,19 +162,9 @@
       "name": "Señor Poco",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 32809,
+      "trophies": 32805,
       "icon": {
         "id": 28000044
-      }
-    },
-    {
-      "tag": "#P2YUC2RRU",
-      "name": "🛡️Dark|King🦋",
-      "nameColor": "0xffff9727",
-      "role": "senior",
-      "trophies": 32744,
-      "icon": {
-        "id": 28000087
       }
     },
     {
@@ -178,23 +178,23 @@
       }
     },
     {
-      "tag": "#LPYY9U9YJ",
-      "name": "🔱🌀|Raywizz~",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 32005,
-      "icon": {
-        "id": 28000347
-      }
-    },
-    {
       "tag": "#8Q2VRG9YR",
       "name": "QLS | SaGa❄️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 31970,
+      "trophies": 32176,
       "icon": {
         "id": 28000187
+      }
+    },
+    {
+      "tag": "#LPYY9U9YJ",
+      "name": "🔱🌀|Raywizz~",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 32048,
+      "icon": {
+        "id": 28000347
       }
     },
     {
@@ -202,7 +202,7 @@
       "name": "ŝâŝķéé",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 31917,
+      "trophies": 31952,
       "icon": {
         "id": 28000374
       }
@@ -212,19 +212,9 @@
       "name": "Rastishka 💜",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 31417,
+      "trophies": 31785,
       "icon": {
         "id": 28000000
-      }
-    },
-    {
-      "tag": "#P9VCCYJUV",
-      "name": "tvoidya",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 31408,
-      "icon": {
-        "id": 28000044
       }
     },
     {
@@ -232,9 +222,19 @@
       "name": "Мститель",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 31377,
+      "trophies": 31619,
       "icon": {
-        "id": 28000176
+        "id": 28000250
+      }
+    },
+    {
+      "tag": "#P9VCCYJUV",
+      "name": "tvoidya",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 31418,
+      "icon": {
+        "id": 28000044
       }
     },
     {
@@ -242,19 +242,9 @@
       "name": "DarkBadi🐍",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 31350,
+      "trophies": 31409,
       "icon": {
         "id": 28000000
-      }
-    },
-    {
-      "tag": "#P80JP09VP",
-      "name": "🥀Toper™ˢᵏⁱˡˡ🎴",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 30754,
-      "icon": {
-        "id": 28000288
       }
     },
     {
@@ -262,19 +252,19 @@
       "name": "$uPrImE",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 30747,
+      "trophies": 30828,
       "icon": {
         "id": 28000141
       }
     },
     {
-      "tag": "#PVV8QY802",
-      "name": "SanGor",
-      "nameColor": "0xff1ba5f5",
+      "tag": "#P80JP09VP",
+      "name": "🥀Toper™ˢᵏⁱˡˡ🎴",
+      "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 30411,
+      "trophies": 30749,
       "icon": {
-        "id": 28000374
+        "id": 28000288
       }
     },
     {
@@ -282,7 +272,7 @@
       "name": "[ADP]NOXCHI",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 29140,
+      "trophies": 29292,
       "icon": {
         "id": 28000023
       }
@@ -302,10 +292,11 @@
       "name": "KOD|Aylisha🖤",
       "nameColor": "0xffff8afb",
       "role": "vicePresident",
-      "trophies": 11788,
+      "trophies": 11809,
       "icon": {
         "id": 28000002
       }
     }
-  ]
+  ],
+  "lastFetch": 1705165984472
 }
