@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000052,
   "requiredTrophies": 35000,
-  "trophies": 1333679,
+  "trophies": 1334837,
   "members": [
     {
       "tag": "#9882JJLL",
       "name": "megavania🦈",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 57975,
+      "trophies": 58116,
       "icon": {
         "id": 28000019
       }
@@ -52,9 +52,9 @@
       "name": "LsK|SEtT🍁",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 50964,
+      "trophies": 51107,
       "icon": {
-        "id": 28000374
+        "id": 28000279
       }
     },
     {
@@ -82,7 +82,7 @@
       "name": "β$ţ|βoďɨcH",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 48338,
+      "trophies": 48429,
       "icon": {
         "id": 28000175
       }
@@ -102,7 +102,7 @@
       "name": "SpinToWin🥀",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 46963,
+      "trophies": 47099,
       "icon": {
         "id": 28000150
       }
@@ -112,7 +112,7 @@
       "name": "|kalvi`na🥷",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 46786,
+      "trophies": 46826,
       "icon": {
         "id": 28000112
       }
@@ -122,7 +122,7 @@
       "name": "ДОБРЫЙ_ПЕЛЬМЕНЬ",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 45350,
+      "trophies": 45471,
       "icon": {
         "id": 28000182
       }
@@ -152,7 +152,7 @@
       "name": "Xargik",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 44017,
+      "trophies": 44064,
       "icon": {
         "id": 28000378
       }
@@ -162,7 +162,7 @@
       "name": "VersPer=)",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 43727,
+      "trophies": 43696,
       "icon": {
         "id": 28000015
       }
@@ -172,7 +172,7 @@
       "name": "MyS|Kiborg❤️Jr",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 43612,
+      "trophies": 43671,
       "icon": {
         "id": 28000019
       }
@@ -182,7 +182,7 @@
       "name": "милфхантер70000",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 42672,
+      "trophies": 42671,
       "icon": {
         "id": 28000054
       }
@@ -242,7 +242,7 @@
       "name": "Ｖａｉｐｉｋ|🌪️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 39654,
+      "trophies": 40001,
       "icon": {
         "id": 28000336
       }
@@ -272,7 +272,7 @@
       "name": "iDozooor.🪃",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 37477,
+      "trophies": 37575,
       "icon": {
         "id": 28000150
       }
@@ -292,7 +292,7 @@
       "name": "Bᴇᴇᴍʙʏ🦋",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 36608,
+      "trophies": 36575,
       "icon": {
         "id": 28000167
       }
@@ -308,5 +308,5 @@
       }
     }
   ],
-  "lastFetch": 1705165984470
+  "lastFetch": 1705184363788
 }

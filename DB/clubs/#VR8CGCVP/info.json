@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000024,
   "requiredTrophies": 35000,
-  "trophies": 1023358,
+  "trophies": 1024217,
   "members": [
     {
       "tag": "#QPVLVPLU",
       "name": "Brawl Power",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 51189,
+      "trophies": 51179,
       "icon": {
         "id": 28000170
       }
@@ -22,7 +22,7 @@
       "name": "QWE | Vitalik🦈",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 46338,
+      "trophies": 46346,
       "icon": {
         "id": 28000038
       }
@@ -52,7 +52,7 @@
       "name": "🇺🇦Соня",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 42831,
+      "trophies": 42847,
       "icon": {
         "id": 28000273
       }
@@ -62,7 +62,7 @@
       "name": "Дэррил",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 42572,
+      "trophies": 42753,
       "icon": {
         "id": 28000294
       }
@@ -72,7 +72,7 @@
       "name": "=Miki=",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 41828,
+      "trophies": 41838,
       "icon": {
         "id": 28000221
       }
@@ -82,7 +82,7 @@
       "name": "BS|tima",
       "nameColor": "0xff1ba5f5",
       "role": "senior",
-      "trophies": 39458,
+      "trophies": 39478,
       "icon": {
         "id": 28000380
       }
@@ -92,7 +92,7 @@
       "name": "𝓚𝓲𝓷𝓰☭",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 39206,
+      "trophies": 39252,
       "icon": {
         "id": 28000037
       }
@@ -102,7 +102,7 @@
       "name": "деня",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 38333,
+      "trophies": 38349,
       "icon": {
         "id": 28000382
       }
@@ -112,7 +112,7 @@
       "name": "NT|FURCHATIY",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 37811,
+      "trophies": 38137,
       "icon": {
         "id": 28000303
       }
@@ -122,7 +122,7 @@
       "name": "Øbеrуn Маrtеll⚔",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 37788,
+      "trophies": 37820,
       "icon": {
         "id": 28000022
       }
@@ -142,7 +142,7 @@
       "name": "лягушка2g709",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 37131,
+      "trophies": 37180,
       "icon": {
         "id": 28000248
       }
@@ -162,7 +162,7 @@
       "name": "⚡️xd | FluZz⚡️",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 36158,
+      "trophies": 36177,
       "icon": {
         "id": 28000368
       }
@@ -172,7 +172,7 @@
       "name": "QLS|Andertale",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 36074,
+      "trophies": 36134,
       "icon": {
         "id": 28000184
       }
@@ -182,7 +182,7 @@
       "name": "назар бро",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 35971,
+      "trophies": 35952,
       "icon": {
         "id": 28000285
       }
@@ -212,7 +212,7 @@
       "name": "LeGeNdA :)",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 35428,
+      "trophies": 35416,
       "icon": {
         "id": 28000139
       }
@@ -222,7 +222,7 @@
       "name": "(лега)ворон",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 35129,
+      "trophies": 35159,
       "icon": {
         "id": 28000179
       }
@@ -232,7 +232,7 @@
       "name": "•BANDERA•",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 34329,
+      "trophies": 34354,
       "icon": {
         "id": 28000132
       }
@@ -252,7 +252,7 @@
       "name": "🍀Lucky🗿",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 30632,
+      "trophies": 30638,
       "icon": {
         "id": 28000341
       }
@@ -262,7 +262,7 @@
       "name": "НУБ",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 30538,
+      "trophies": 30594,
       "icon": {
         "id": 28000374
       }
@@ -278,5 +278,5 @@
       }
     }
   ],
-  "lastFetch": 1705165984646
+  "lastFetch": 1705184363448
 }

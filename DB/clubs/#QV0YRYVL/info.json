@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000027,
   "requiredTrophies": 29000,
-  "trophies": 986252,
+  "trophies": 986991,
   "members": [
     {
       "tag": "#L8LULP9L",
       "name": "🪁FP|TiSap🌿✨",
       "nameColor": "0xffffffff",
       "role": "president",
-      "trophies": 58215,
+      "trophies": 58222,
       "icon": {
         "id": 28000066
       }
@@ -22,7 +22,7 @@
       "name": "🖤Ҝᵃn҉e̸k̸ᴉˢᵃⁿ",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 45631,
+      "trophies": 45674,
       "icon": {
         "id": 28000129
       }
@@ -42,7 +42,7 @@
       "name": "☂️|ｓ ｍ ａｉｎｅ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 40463,
+      "trophies": 40589,
       "icon": {
         "id": 28000136
       }
@@ -52,7 +52,7 @@
       "name": "бобер",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 40319,
+      "trophies": 40305,
       "icon": {
         "id": 28000021
       }
@@ -72,7 +72,7 @@
       "name": "是|sowilder❤️‍🩹",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 36221,
+      "trophies": 36358,
       "icon": {
         "id": 28000074
       }
@@ -92,7 +92,7 @@
       "name": "[LP]Hacker",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 34938,
+      "trophies": 34948,
       "icon": {
         "id": 28000380
       }
@@ -102,7 +102,7 @@
       "name": "✨⚡Kyrenay⚡✨",
       "nameColor": "0xfff9775d",
       "role": "senior",
-      "trophies": 34693,
+      "trophies": 34683,
       "icon": {
         "id": 28000146
       }
@@ -112,7 +112,7 @@
       "name": "владик",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 34565,
+      "trophies": 34560,
       "icon": {
         "id": 28000179
       }
@@ -138,23 +138,23 @@
       }
     },
     {
-      "tag": "#8G880PR02",
-      "name": "Стрелок",
-      "nameColor": "0xffcb5aff",
-      "role": "vicePresident",
-      "trophies": 33148,
-      "icon": {
-        "id": 28000166
-      }
-    },
-    {
       "tag": "#LUPCYPP8Q",
       "name": "винке казел😤",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 33132,
+      "trophies": 33179,
       "icon": {
         "id": 28000384
+      }
+    },
+    {
+      "tag": "#8G880PR02",
+      "name": "Стрелок",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 33134,
+      "icon": {
+        "id": 28000166
       }
     },
     {
@@ -172,7 +172,7 @@
       "name": "Mr.smell",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 30453,
+      "trophies": 30476,
       "icon": {
         "id": 28000151
       }
@@ -190,9 +190,9 @@
     {
       "tag": "#2GY82YRGL",
       "name": "SKORPIONBOSS",
-      "nameColor": "0xffa8e132",
+      "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 29604,
+      "trophies": 29670,
       "icon": {
         "id": 28000389
       }
@@ -242,7 +242,7 @@
       "name": "hivan",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 28380,
+      "trophies": 28469,
       "icon": {
         "id": 28000170
       }
@@ -252,7 +252,7 @@
       "name": "maadd?",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 27244,
+      "trophies": 27427,
       "icon": {
         "id": 28000078
       }
@@ -262,7 +262,7 @@
       "name": "🌔lazzi 个",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 27151,
+      "trophies": 27144,
       "icon": {
         "id": 28000242
       }
@@ -272,7 +272,7 @@
       "name": "Kotùkツ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 25620,
+      "trophies": 25652,
       "icon": {
         "id": 28000382
       }
@@ -302,11 +302,11 @@
       "name": "ТЫ ЧАВО НАДЕЛАЛ",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 17693,
+      "trophies": 17719,
       "icon": {
         "id": 28000280
       }
     }
   ],
-  "lastFetch": 1705165984612
+  "lastFetch": 1705184363513
 }

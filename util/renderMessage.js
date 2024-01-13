@@ -1,4 +1,5 @@
 const renderMessage = function(obj){
+  try{
   const membersCouter = `${obj.members.length}/30`
   const dateTime = new Date().getTime()
   const lastFetch = obj.lastFetch
@@ -31,6 +32,9 @@ Last update: ${update(lastUpdateTime)}🕰️
   
 New update: ${update((lastFetch + 1000*60*60 - dateTime)/1000)}🕰️`
 return message
+  }catch(err){
+    console.log(err)
+  }
 }
 
 module.exports = renderMessage

@@ -1,80 +1,83 @@
 const bot = require("./bot")
 const renderMessage = require("./util/renderMessage")
-  
-let clubs =bot.brawlStars.get.allClubs()
-let infoClubs = []
-const getMessageList =function(){
 
-  for(let el of Object.values(clubs)){
-    const info =renderMessage(el)
-    infoClubs.push(info)
-  }
   bot.brawlStars.fetch.allClubs()
-  clubs =bot.brawlStars.get.allClubs()
+
+
+const clubObj ={
+  clubs:[],
+  arrPromise:[
+    {comand:"",teg:"",dev:()=>{console.log("good create cmd")}}
+  ],
+  message:["",""],
+  updateMessage:()=>{
+    clubObj.message = []
+    for(let el of clubObj.clubs){
+      clubObj.message.push(renderMessage(el))
+    }
+  },
+  updateClubs:()=>{
+    clubObj.clubs=[]
+    const _clubs = bot.brawlStars.get.allClubs()
+    for(let el of Object.values(_clubs)){
+      clubObj.clubs.push(el)
+    }
+  },
+  updateArrPromise:()=>{
+    for(let el of clubObj.arrPromise){
+      el.dev()
+    }
+    clubObj.arrPromise =[]
+    clubObj.updateClubs()
+    const clubs = clubObj.clubs
+    for(let _i in clubs){
+      new Promise((resolve, reject)=>{
+        try{
+        let i = _i
+        const textCmd = "/"+clubs[i].name.replace(" ","_")
+        const reg = new RegExp(textCmd)
+        console.log(textCmd)
+        const tag = clubs[i].tag
+        clubObj.arrPromise.push({comand:textCmd,dev:reject,tag:clubs[i].tag})
+
+        bot.onText(reg,(msg,match)=>{
+          const obj= clubObj.clubs.filter(el=>el.tag === tag)[0]
+          console.log(obj)
+          
+          const message = renderMessage(obj)
+          console.log(message)
+          bot.sendMessage(msg.chat.id,message)
+        })
+        }catch(err){
+          console.log(err)
+        }
+      })
+      
+    }
+  }
+
 
 }
-  getMessageList()
+clubObj.updateClubs()
+
 setInterval(()=>{
-  getMessageList()
+  bot.brawlStars.fetch.allClubs()
+  clubObj.updateClubs()
 },1000*60*60)
 
-bot.onText(/\/allClubs/,(msg, math)=>{
-  for(let i in infoClubs){
-    setTimeout(()=>{
-      infoClubs =[]
-      for(let el of Object.values(clubs)){
-        const info =renderMessage(el)
-        infoClubs.push(info)
-      }
-      bot.sendMessage(msg.chat.id,infoClubs[i])
-    },(i+1)*500)
+clubObj.updateArrPromise()
+
+
+bot.onText(/\/js ?(.*)/sg,(msg, match)=>{
+  if(msg.chat.id =1121847657){
+    const [fullMsg,lastMsg,index,inpute,group] =match
+    console.log(msg.chat.id)
+    const print=(text)=>{
+      bot.sendMessage(msg.chat.id,text)
+    }
+    eval(lastMsg)
   }
 })
-
-let cmdList =[]
-let cmdremove =[]
-bot.onText(/\/start/,(msg,match)=>{
-  let message = "Список команд кланів\n"
-  for(let el of cmdList){
-    message+=el+"\n"
-  }
-  bot.sendMessage(msg.chat.id,message)
-})
-
-const renderCmd = function(){
-  infoClubs =[]
-  for(let el of Object.values(clubs)){
-    const info =renderMessage(el)
-    infoClubs.push(info)
-  }
-  cmdList =[]
-  for(let func of cmdremove){
-    func()
-  }
-  cmdremove=[]
-for(let i in clubs){
-  const cmd =`/${clubs[i].name.replace(" ","_").replace(" ","_")}`
-  cmdList.push(cmd)
-  new Promise((resolve, reject) => {
-    cmdremove.push(reject)
-    const _cmd = cmd
-    const reg = new RegExp(_cmd)
-    bot.onText(reg,(msg,match)=>{
-      if(!cmdList.includes(cmd)){
-        reject()
-      }
-      const message = infoClubs[cmdList.indexOf(_cmd)]
-      bot.sendMessage(msg.chat.id,message)
-
-    })
-  })
-}
-}
-
-renderCmd()
-setInterval(()=>{
-  renderCmd()
-},1000*60*60)
 
 
 

@@ -5,7 +5,7 @@
   "type": "inviteOnly",
   "badgeId": 8000023,
   "requiredTrophies": 35000,
-  "trophies": 1334483,
+  "trophies": 1335973,
   "members": [
     {
       "tag": "#9P080R9RQ",
@@ -22,7 +22,7 @@
       "name": "☯️☯️☯️",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 52766,
+      "trophies": 53074,
       "icon": {
         "id": 28000175
       }
@@ -32,19 +32,9 @@
       "name": "Super Brawler",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 52706,
+      "trophies": 52814,
       "icon": {
         "id": 28000228
-      }
-    },
-    {
-      "tag": "#8LJ9U02LR",
-      "name": "erNesto",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 51976,
-      "icon": {
-        "id": 28000023
       }
     },
     {
@@ -52,9 +42,19 @@
       "name": "FE|LoSt VeiN⚔️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 51864,
+      "trophies": 52024,
       "icon": {
         "id": 28000097
+      }
+    },
+    {
+      "tag": "#8LJ9U02LR",
+      "name": "erNesto",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 51964,
+      "icon": {
+        "id": 28000023
       }
     },
     {
@@ -62,7 +62,7 @@
       "name": "GG|TyMaSaK🌹",
       "nameColor": "0xffffffff",
       "role": "president",
-      "trophies": 50234,
+      "trophies": 50423,
       "icon": {
         "id": 28000332
       }
@@ -72,7 +72,7 @@
       "name": "Reddny",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 49713,
+      "trophies": 49796,
       "icon": {
         "id": 28000037
       }
@@ -82,7 +82,7 @@
       "name": "[LP] Андрей",
       "nameColor": "0xffffce89",
       "role": "member",
-      "trophies": 49333,
+      "trophies": 49309,
       "icon": {
         "id": 28000382
       }
@@ -102,7 +102,7 @@
       "name": "ColanaR",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 48557,
+      "trophies": 48565,
       "icon": {
         "id": 28000256
       }
@@ -112,7 +112,7 @@
       "name": "[𝕂ℝ]♡ςг๏𝕨♡",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 47475,
+      "trophies": 47497,
       "icon": {
         "id": 28000033
       }
@@ -122,7 +122,7 @@
       "name": "бравл пас",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 46450,
+      "trophies": 46460,
       "icon": {
         "id": 28000175
       }
@@ -140,11 +140,11 @@
     {
       "tag": "#YLVC0V9GU",
       "name": "[ПОТ]Brawler",
-      "nameColor": "0xffffffff",
+      "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 45939,
+      "trophies": 45933,
       "icon": {
-        "id": 28000335
+        "id": 28000167
       }
     },
     {
@@ -152,7 +152,7 @@
       "name": "𝕣𝕖𝕚𝕫𝕠",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 45875,
+      "trophies": 45851,
       "icon": {
         "id": 28000380
       }
@@ -162,7 +162,7 @@
       "name": "DARKFIRE 🇺🇦",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 45736,
+      "trophies": 45745,
       "icon": {
         "id": 28000023
       }
@@ -188,23 +188,23 @@
       }
     },
     {
-      "tag": "#9Y0VJQ80L",
-      "name": "(ua) Костя",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 43936,
-      "icon": {
-        "id": 28000374
-      }
-    },
-    {
       "tag": "#2YVCC0R8L",
       "name": "🌩️Vink64",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 43920,
+      "trophies": 44041,
       "icon": {
         "id": 28000382
+      }
+    },
+    {
+      "tag": "#9Y0VJQ80L",
+      "name": "(ua) Костя",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 43964,
+      "icon": {
+        "id": 28000374
       }
     },
     {
@@ -212,19 +212,9 @@
       "name": "ø-∆-ø",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 43623,
+      "trophies": 43605,
       "icon": {
         "id": 28000126
-      }
-    },
-    {
-      "tag": "#9VLPUVPR",
-      "name": "QLS|Fujisaki ☔️",
-      "nameColor": "0xffcb5aff",
-      "role": "member",
-      "trophies": 41980,
-      "icon": {
-        "id": 28000156
       }
     },
     {
@@ -232,9 +222,19 @@
       "name": "[ICE] Sayat",
       "nameColor": "0xffcb5aff",
       "role": "vicePresident",
-      "trophies": 41937,
+      "trophies": 42010,
       "icon": {
         "id": 28000023
+      }
+    },
+    {
+      "tag": "#9VLPUVPR",
+      "name": "QLS|Fujisaki ☔️",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 42005,
+      "icon": {
+        "id": 28000156
       }
     },
     {
@@ -242,7 +242,7 @@
       "name": "DandyPr1me❦",
       "nameColor": "0xffff8afb",
       "role": "vicePresident",
-      "trophies": 41434,
+      "trophies": 41491,
       "icon": {
         "id": 28000023
       }
@@ -282,7 +282,7 @@
       "name": "GG|Lереха🌹",
       "nameColor": "0xffcb5aff",
       "role": "vicePresident",
-      "trophies": 32742,
+      "trophies": 32996,
       "icon": {
         "id": 28000255
       }
@@ -300,13 +300,13 @@
     {
       "tag": "#UG2RRV9V",
       "name": "мяs.н𝖺z𝖺ℓqq🌺",
-      "nameColor": "0xffff8afb",
+      "nameColor": "0xffffffff",
       "role": "vicePresident",
-      "trophies": 23563,
+      "trophies": 23682,
       "icon": {
-        "id": 28000023
+        "id": 28000000
       }
     }
   ],
-  "lastFetch": 1705165984472
+  "lastFetch": 1705184363551
 }

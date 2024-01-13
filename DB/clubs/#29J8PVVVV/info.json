@@ -5,14 +5,14 @@
   "type": "open",
   "badgeId": 8000057,
   "requiredTrophies": 24000,
-  "trophies": 769286,
+  "trophies": 769902,
   "members": [
     {
       "tag": "#8QUYPRYJJ",
       "name": "$AuRuM$",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 41733,
+      "trophies": 41720,
       "icon": {
         "id": 28000375
       }
@@ -32,7 +32,7 @@
       "name": "NaVi | Line",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 35768,
+      "trophies": 35759,
       "icon": {
         "id": 28000014
       }
@@ -62,7 +62,7 @@
       "name": "Тузик😄😄😄",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 31297,
+      "trophies": 31291,
       "icon": {
         "id": 28000179
       }
@@ -92,7 +92,7 @@
       "name": "kAyFaRiKツ💥",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 29701,
+      "trophies": 29807,
       "icon": {
         "id": 28000227
       }
@@ -122,7 +122,7 @@
       "name": "КАМИНА🇷🇺",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 28045,
+      "trophies": 28178,
       "icon": {
         "id": 28000383
       }
@@ -132,7 +132,7 @@
       "name": "я кибер спорт",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 27537,
+      "trophies": 27532,
       "icon": {
         "id": 28000255
       }
@@ -142,7 +142,7 @@
       "name": "HATE LOVE",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 27010,
+      "trophies": 27063,
       "icon": {
         "id": 28000087
       }
@@ -152,9 +152,19 @@
       "name": "king👑🫅",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 26333,
+      "trophies": 26335,
       "icon": {
         "id": 28000170
+      }
+    },
+    {
+      "tag": "#VR0QVVC0",
+      "name": "малыш примос",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 26115,
+      "icon": {
+        "id": 28000335
       }
     },
     {
@@ -168,21 +178,11 @@
       }
     },
     {
-      "tag": "#VR0QVVC0",
-      "name": "малыш примос",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 26026,
-      "icon": {
-        "id": 28000335
-      }
-    },
-    {
       "tag": "#YPG2J0ULQ",
       "name": "ziomek123",
       "nameColor": "0xfff9775d",
       "role": "member",
-      "trophies": 25585,
+      "trophies": 25612,
       "icon": {
         "id": 28000305
       }
@@ -192,7 +192,7 @@
       "name": "🇦🇲",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 25293,
+      "trophies": 25421,
       "icon": {
         "id": 28000004
       }
@@ -212,7 +212,7 @@
       "name": "[4SV] kontrll",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 24945,
+      "trophies": 24936,
       "icon": {
         "id": 28000084
       }
@@ -252,7 +252,7 @@
       "name": "QLS|TOPER",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 22149,
+      "trophies": 22181,
       "icon": {
         "id": 28000263
       }
@@ -262,7 +262,7 @@
       "name": "mayuko🫀夢をあきらめ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 17470,
+      "trophies": 17558,
       "icon": {
         "id": 28000302
       }
@@ -308,5 +308,5 @@
       }
     }
   ],
-  "lastFetch": 1705165984668
+  "lastFetch": 1705184363498
 }

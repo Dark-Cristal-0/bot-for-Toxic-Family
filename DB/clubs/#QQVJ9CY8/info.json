@@ -2,10 +2,10 @@
   "tag": "#QQVJ9CY8",
   "name": "Toxic Cloud",
   "description": "<c5>Toxic Imperium</c>|От 34к🏆|Копилка 5/5|Связь через тгк @ToxicImp & @Tox_Paradise",
-  "type": "inviteOnly",
+  "type": "open",
   "badgeId": 8000056,
   "requiredTrophies": 34000,
-  "trophies": 1152111,
+  "trophies": 1153340,
   "members": [
     {
       "tag": "#L92CUJ8P8",
@@ -22,7 +22,7 @@
       "name": "♧Ilya.VGX♡",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 52428,
+      "trophies": 52454,
       "icon": {
         "id": 28000360
       }
@@ -42,7 +42,7 @@
       "name": "sadPowar🧸❤️‍🔥",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 49407,
+      "trophies": 49625,
       "icon": {
         "id": 28000336
       }
@@ -62,7 +62,7 @@
       "name": "BLR | H1zenyy🌖",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 44759,
+      "trophies": 44972,
       "icon": {
         "id": 28000109
       }
@@ -82,7 +82,7 @@
       "name": "🌪️TØRÑÀDØ🌪️",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 42447,
+      "trophies": 42420,
       "icon": {
         "id": 28000360
       }
@@ -92,7 +92,7 @@
       "name": "NaVi | Apollo",
       "nameColor": "0xffffffff",
       "role": "vicePresident",
-      "trophies": 42293,
+      "trophies": 42294,
       "icon": {
         "id": 28000019
       }
@@ -102,7 +102,7 @@
       "name": "YT(ОдИнОкИй)",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 41431,
+      "trophies": 41523,
       "icon": {
         "id": 28000166
       }
@@ -112,7 +112,7 @@
       "name": "Wurn🍯🐻",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 40462,
+      "trophies": 40521,
       "icon": {
         "id": 28000109
       }
@@ -132,7 +132,7 @@
       "name": "xloodyyy17",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 39883,
+      "trophies": 40037,
       "icon": {
         "id": 28000132
       }
@@ -152,7 +152,7 @@
       "name": "koks",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 38871,
+      "trophies": 38891,
       "icon": {
         "id": 28000222
       }
@@ -172,7 +172,7 @@
       "name": "hamza",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 38190,
+      "trophies": 38310,
       "icon": {
         "id": 28000242
       }
@@ -222,7 +222,7 @@
       "name": "ОТМОРОЗИЩЕ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 36183,
+      "trophies": 36367,
       "icon": {
         "id": 28000168
       }
@@ -242,7 +242,7 @@
       "name": "Grackie",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 34836,
+      "trophies": 35009,
       "icon": {
         "id": 28000267
       }
@@ -252,7 +252,7 @@
       "name": "𝐿𝒾𝑔𝒽𝓉🤯",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 33778,
+      "trophies": 33779,
       "icon": {
         "id": 28000336
       }
@@ -262,7 +262,7 @@
       "name": "🥀♥️Jery♥️🥀",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 32541,
+      "trophies": 32536,
       "icon": {
         "id": 28000182
       }
@@ -298,5 +298,5 @@
       }
     }
   ],
-  "lastFetch": 1705165984632
+  "lastFetch": 1705184363550
 }
