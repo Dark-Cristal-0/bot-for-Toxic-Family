@@ -3,7 +3,7 @@ const path = require("path")
 
 const TgBot = require("node-telegram-bot-api")
 
-const fetchData = require("./function/fetch.js")
+const fetchData = require("./util/fetch.js")
 const admin = require("./admin/index.js")
 
 const getData = function(dir1 = undefined,dir2 = undefined,dir3 = undefined ,file = "info.json"){

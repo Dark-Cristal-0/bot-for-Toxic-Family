@@ -2,10 +2,10 @@
   "tag": "#QV0YRYVL",
   "name": "Toxic Øbscurity",
   "description": "<cFF0000>Toxic Imperium</c>⛧ Tg: @ToxicImp🐍 Tg:<cFF0000>@koch1gar⛧</c>30→Toxic Valley🐍",
-  "type": "open",
+  "type": "inviteOnly",
   "badgeId": 8000027,
   "requiredTrophies": 29000,
-  "trophies": 1003070,
+  "trophies": 986252,
   "members": [
     {
       "tag": "#L8LULP9L",
@@ -22,7 +22,7 @@
       "name": "🖤Ҝᵃn҉e̸k̸ᴉˢᵃⁿ",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 45619,
+      "trophies": 45631,
       "icon": {
         "id": 28000129
       }
@@ -42,19 +42,9 @@
       "name": "☂️|ｓ ｍ ａｉｎｅ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 40464,
+      "trophies": 40463,
       "icon": {
         "id": 28000136
-      }
-    },
-    {
-      "tag": "#9CLR9YVQV",
-      "name": "TTM|Mortis🔥",
-      "nameColor": "0xff4ddba2",
-      "role": "member",
-      "trophies": 40384,
-      "icon": {
-        "id": 28000140
       }
     },
     {
@@ -62,7 +52,7 @@
       "name": "бобер",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 40219,
+      "trophies": 40319,
       "icon": {
         "id": 28000021
       }
@@ -82,9 +72,9 @@
       "name": "是|sowilder❤️‍🩹",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 35686,
+      "trophies": 36221,
       "icon": {
-        "id": 28000020
+        "id": 28000074
       }
     },
     {
@@ -92,7 +82,7 @@
       "name": "Капитан Паника",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 35206,
+      "trophies": 35213,
       "icon": {
         "id": 28000294
       }
@@ -102,7 +92,7 @@
       "name": "[LP]Hacker",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 34936,
+      "trophies": 34938,
       "icon": {
         "id": 28000380
       }
@@ -112,7 +102,7 @@
       "name": "✨⚡Kyrenay⚡✨",
       "nameColor": "0xfff9775d",
       "role": "senior",
-      "trophies": 34555,
+      "trophies": 34693,
       "icon": {
         "id": 28000146
       }
@@ -122,9 +112,9 @@
       "name": "владик",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 34485,
+      "trophies": 34565,
       "icon": {
-        "id": 28000029
+        "id": 28000179
       }
     },
     {
@@ -192,7 +182,7 @@
       "name": "KOD|pRism🖤",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 29792,
+      "trophies": 29791,
       "icon": {
         "id": 28000359
       }
@@ -202,7 +192,7 @@
       "name": "SKORPIONBOSS",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 29629,
+      "trophies": 29604,
       "icon": {
         "id": 28000389
       }
@@ -212,7 +202,7 @@
       "name": "XD HoMkA:)",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 29502,
+      "trophies": 29537,
       "icon": {
         "id": 28000070
       }
@@ -222,7 +212,7 @@
       "name": "Ɏᵾɍⱥ",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 28780,
+      "trophies": 28978,
       "icon": {
         "id": 28000155
       }
@@ -232,7 +222,7 @@
       "name": "UA|E𝚖p𝚎r𝚘r🔮",
       "nameColor": "0xffa8e132",
       "role": "vicePresident",
-      "trophies": 28766,
+      "trophies": 28791,
       "icon": {
         "id": 28000151
       }
@@ -252,7 +242,7 @@
       "name": "hivan",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 28334,
+      "trophies": 28380,
       "icon": {
         "id": 28000170
       }
@@ -269,7 +259,7 @@
     },
     {
       "tag": "#Q2URGG2CC",
-      "name": "Judo",
+      "name": "🌔lazzi 个",
       "nameColor": "0xffcb5aff",
       "role": "senior",
       "trophies": 27151,
@@ -282,7 +272,7 @@
       "name": "Kotùkツ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 25488,
+      "trophies": 25620,
       "icon": {
         "id": 28000382
       }
@@ -298,14 +288,25 @@
       }
     },
     {
+      "tag": "#8JV8GJ2JR",
+      "name": "Super Brawler",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 22338,
+      "icon": {
+        "id": 28000129
+      }
+    },
+    {
       "tag": "#YPRQCYPYR",
       "name": "ТЫ ЧАВО НАДЕЛАЛ",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 17748,
+      "trophies": 17693,
       "icon": {
         "id": 28000280
       }
     }
-  ]
+  ],
+  "lastFetch": 1705165984612
 }

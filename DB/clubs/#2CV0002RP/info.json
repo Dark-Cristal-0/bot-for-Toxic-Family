@@ -5,16 +5,16 @@
   "type": "inviteOnly",
   "badgeId": 8000052,
   "requiredTrophies": 35000,
-  "trophies": 1287674,
+  "trophies": 1333679,
   "members": [
     {
       "tag": "#9882JJLL",
-      "name": "LsK|KRUTik🍁",
-      "nameColor": "0xffff8afb",
+      "name": "megavania🦈",
+      "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 57573,
+      "trophies": 57975,
       "icon": {
-        "id": 28000258
+        "id": 28000019
       }
     },
     {
@@ -22,7 +22,7 @@
       "name": "☢Dark Knight☢",
       "nameColor": "0xfff9c908",
       "role": "vicePresident",
-      "trophies": 55574,
+      "trophies": 55608,
       "icon": {
         "id": 28000291
       }
@@ -52,7 +52,7 @@
       "name": "LsK|SEtT🍁",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 50551,
+      "trophies": 50964,
       "icon": {
         "id": 28000374
       }
@@ -82,7 +82,7 @@
       "name": "β$ţ|βoďɨcH",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 48303,
+      "trophies": 48338,
       "icon": {
         "id": 28000175
       }
@@ -92,9 +92,19 @@
       "name": "差|Stàr💘",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 47077,
+      "trophies": 47108,
       "icon": {
         "id": 28000018
+      }
+    },
+    {
+      "tag": "#PCGJQGL0Y",
+      "name": "SpinToWin🥀",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 46963,
+      "icon": {
+        "id": 28000150
       }
     },
     {
@@ -108,21 +118,11 @@
       }
     },
     {
-      "tag": "#PCGJQGL0Y",
-      "name": "SpinToWin🥀",
-      "nameColor": "0xff1ba5f5",
-      "role": "member",
-      "trophies": 46402,
-      "icon": {
-        "id": 28000150
-      }
-    },
-    {
       "tag": "#2RJVPLG02",
       "name": "ДОБРЫЙ_ПЕЛЬМЕНЬ",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 45083,
+      "trophies": 45350,
       "icon": {
         "id": 28000182
       }
@@ -142,7 +142,7 @@
       "name": "$Bogro$",
       "nameColor": "0xff4ddba2",
       "role": "senior",
-      "trophies": 44113,
+      "trophies": 44186,
       "icon": {
         "id": 28000278
       }
@@ -152,7 +152,7 @@
       "name": "Xargik",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 43845,
+      "trophies": 44017,
       "icon": {
         "id": 28000378
       }
@@ -162,7 +162,7 @@
       "name": "VersPer=)",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 43718,
+      "trophies": 43727,
       "icon": {
         "id": 28000015
       }
@@ -172,9 +172,19 @@
       "name": "MyS|Kiborg❤️Jr",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 43647,
+      "trophies": 43612,
       "icon": {
         "id": 28000019
+      }
+    },
+    {
+      "tag": "#2Y08C22CQ",
+      "name": "милфхантер70000",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 42672,
+      "icon": {
+        "id": 28000054
       }
     },
     {
@@ -182,7 +192,7 @@
       "name": "X|Smoki💨",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 42244,
+      "trophies": 42569,
       "icon": {
         "id": 28000002
       }
@@ -192,7 +202,7 @@
       "name": "🛸|MªTumbª|☔£",
       "nameColor": "0xff4ddba2",
       "role": "senior",
-      "trophies": 41809,
+      "trophies": 41808,
       "icon": {
         "id": 28000374
       }
@@ -202,7 +212,7 @@
       "name": "[LP] Optimist",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 41142,
+      "trophies": 41159,
       "icon": {
         "id": 28000228
       }
@@ -212,7 +222,7 @@
       "name": "ɪᴛ's Kʀᴏɴᴏs💔?",
       "nameColor": "0xff1ba5f5",
       "role": "senior",
-      "trophies": 40595,
+      "trophies": 40582,
       "icon": {
         "id": 28000380
       }
@@ -232,7 +242,7 @@
       "name": "Ｖａｉｐｉｋ|🌪️",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 39532,
+      "trophies": 39654,
       "icon": {
         "id": 28000336
       }
@@ -242,7 +252,7 @@
       "name": "nM⛩️|Rainy♡",
       "nameColor": "0xff4ddba2",
       "role": "senior",
-      "trophies": 38708,
+      "trophies": 38763,
       "icon": {
         "id": 28000284
       }
@@ -252,19 +262,9 @@
       "name": "mafiaa❦",
       "nameColor": "0xffffffff",
       "role": "president",
-      "trophies": 37632,
+      "trophies": 37627,
       "icon": {
         "id": 28000185
-      }
-    },
-    {
-      "tag": "#8U92GVPGU",
-      "name": "ナスティユシャX1X🥱",
-      "nameColor": "0xffffffff",
-      "role": "senior",
-      "trophies": 37226,
-      "icon": {
-        "id": 28000207
       }
     },
     {
@@ -272,9 +272,19 @@
       "name": "iDozooor.🪃",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 36801,
+      "trophies": 37477,
       "icon": {
         "id": 28000150
+      }
+    },
+    {
+      "tag": "#8U92GVPGU",
+      "name": "ナスティユシャX1X🥱",
+      "nameColor": "0xffffffff",
+      "role": "senior",
+      "trophies": 37443,
+      "icon": {
+        "id": 28000207
       }
     },
     {
@@ -282,7 +292,7 @@
       "name": "Bᴇᴇᴍʙʏ🦋",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 36680,
+      "trophies": 36608,
       "icon": {
         "id": 28000167
       }
@@ -292,10 +302,11 @@
       "name": "🔮|Warlordツ",
       "nameColor": "0xffffffff",
       "role": "senior",
-      "trophies": 30687,
+      "trophies": 30737,
       "icon": {
         "id": 28000132
       }
     }
-  ]
+  ],
+  "lastFetch": 1705165984470
 }

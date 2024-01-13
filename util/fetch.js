@@ -95,6 +95,7 @@ async function getData(token,param1,param2=undefined,param3=undefined){
   
   const response =await fetch(url,{method:"get",headers: {'accept': 'application/json','authorization': `Bearer ${token}`}})
   const data =await response.json()
+  data.lastFetch = new Date().getTime()
   const jsonData = JSON.stringify(data,null,2)
   seveData(jsonData,"info.json",param1,param2,param3)
 }
