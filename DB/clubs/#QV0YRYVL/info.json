@@ -5,26 +5,36 @@
   "type": "inviteOnly",
   "badgeId": 8000027,
   "requiredTrophies": 29000,
-  "trophies": 986991,
+  "trophies": 991008,
   "members": [
     {
       "tag": "#L8LULP9L",
       "name": "🪁FP|TiSap🌿✨",
       "nameColor": "0xffffffff",
       "role": "president",
-      "trophies": 58222,
+      "trophies": 58477,
       "icon": {
-        "id": 28000066
+        "id": 28000021
       }
     },
     {
       "tag": "#JUGPRRQJ",
       "name": "🖤Ҝᵃn҉e̸k̸ᴉˢᵃⁿ",
-      "nameColor": "0xffcb5aff",
+      "nameColor": "0xffffce89",
       "role": "senior",
-      "trophies": 45674,
+      "trophies": 45991,
       "icon": {
-        "id": 28000129
+        "id": 28000364
+      }
+    },
+    {
+      "tag": "#22YC8Y9CC",
+      "name": "Titanium",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 42105,
+      "icon": {
+        "id": 28000380
       }
     },
     {
@@ -32,29 +42,9 @@
       "name": "[L]LoL",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 41114,
+      "trophies": 41282,
       "icon": {
         "id": 28000347
-      }
-    },
-    {
-      "tag": "#8RRC2G22P",
-      "name": "☂️|ｓ ｍ ａｉｎｅ",
-      "nameColor": "0xffffffff",
-      "role": "senior",
-      "trophies": 40589,
-      "icon": {
-        "id": 28000136
-      }
-    },
-    {
-      "tag": "#890L802Q8",
-      "name": "бобер",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 40305,
-      "icon": {
-        "id": 28000021
       }
     },
     {
@@ -68,13 +58,33 @@
       }
     },
     {
+      "tag": "#89JUPLY8J",
+      "name": "NEKINZ",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 38154,
+      "icon": {
+        "id": 28000295
+      }
+    },
+    {
       "tag": "#RV0JVU8Q",
       "name": "是|sowilder❤️‍🩹",
+      "nameColor": "0xffffce89",
+      "role": "member",
+      "trophies": 37570,
+      "icon": {
+        "id": 28000333
+      }
+    },
+    {
+      "tag": "#8QG9UGVG8",
+      "name": "Jablo4ko_best😇",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 36358,
+      "trophies": 35938,
       "icon": {
-        "id": 28000074
+        "id": 28000247
       }
     },
     {
@@ -82,7 +92,7 @@
       "name": "Капитан Паника",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 35213,
+      "trophies": 35285,
       "icon": {
         "id": 28000294
       }
@@ -92,19 +102,9 @@
       "name": "[LP]Hacker",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 34948,
+      "trophies": 35164,
       "icon": {
         "id": 28000380
-      }
-    },
-    {
-      "tag": "#9JRYR0LPL",
-      "name": "✨⚡Kyrenay⚡✨",
-      "nameColor": "0xfff9775d",
-      "role": "senior",
-      "trophies": 34683,
-      "icon": {
-        "id": 28000146
       }
     },
     {
@@ -112,9 +112,29 @@
       "name": "владик",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 34560,
+      "trophies": 35009,
       "icon": {
         "id": 28000179
+      }
+    },
+    {
+      "tag": "#9JRYR0LPL",
+      "name": "✨⚡Kyrenay⚡✨",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 35008,
+      "icon": {
+        "id": 28000262
+      }
+    },
+    {
+      "tag": "#PP9LR9908",
+      "name": "UA | YEGOR",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 34683,
+      "icon": {
+        "id": 28000309
       }
     },
     {
@@ -122,7 +142,7 @@
       "name": "ks|teekz🍒",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 34330,
+      "trophies": 34318,
       "icon": {
         "id": 28000382
       }
@@ -132,29 +152,29 @@
       "name": "⛩️GUY²²⁸⛩️",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 34221,
+      "trophies": 34206,
       "icon": {
         "id": 28000168
       }
     },
     {
-      "tag": "#LUPCYPP8Q",
-      "name": "винке казел😤",
-      "nameColor": "0xffff8afb",
-      "role": "member",
-      "trophies": 33179,
+      "tag": "#8G880PR02",
+      "name": "𐍂ⅈѳⲍѳƝ",
+      "nameColor": "0xffcb5aff",
+      "role": "vicePresident",
+      "trophies": 33728,
       "icon": {
-        "id": 28000384
+        "id": 28000021
       }
     },
     {
-      "tag": "#8G880PR02",
-      "name": "Стрелок",
+      "tag": "#LUPCYPP8Q",
+      "name": "винке казел😤",
       "nameColor": "0xffcb5aff",
-      "role": "vicePresident",
-      "trophies": 33134,
+      "role": "member",
+      "trophies": 33621,
       "icon": {
-        "id": 28000166
+        "id": 28000384
       }
     },
     {
@@ -162,9 +182,19 @@
       "name": "[ZEVS]=pro",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 33011,
+      "trophies": 33015,
       "icon": {
         "id": 28000374
+      }
+    },
+    {
+      "tag": "#8YCP9YYCV",
+      "name": "RED LIZARD",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 32264,
+      "icon": {
+        "id": 28000382
       }
     },
     {
@@ -172,9 +202,19 @@
       "name": "Mr.smell",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 30476,
+      "trophies": 30496,
       "icon": {
         "id": 28000151
+      }
+    },
+    {
+      "tag": "#2UU2VL9V2",
+      "name": "🇺🇦Ukraine♥️🇺",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 30083,
+      "icon": {
+        "id": 28000294
       }
     },
     {
@@ -182,7 +222,7 @@
       "name": "KOD|pRism🖤",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 29791,
+      "trophies": 30064,
       "icon": {
         "id": 28000359
       }
@@ -190,11 +230,11 @@
     {
       "tag": "#2GY82YRGL",
       "name": "SKORPIONBOSS",
-      "nameColor": "0xffa2e3fe",
+      "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 29670,
+      "trophies": 29943,
       "icon": {
-        "id": 28000389
+        "id": 28000272
       }
     },
     {
@@ -202,7 +242,7 @@
       "name": "XD HoMkA:)",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 29537,
+      "trophies": 29823,
       "icon": {
         "id": 28000070
       }
@@ -212,7 +252,7 @@
       "name": "Ɏᵾɍⱥ",
       "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 28978,
+      "trophies": 29553,
       "icon": {
         "id": 28000155
       }
@@ -222,39 +262,9 @@
       "name": "UA|E𝚖p𝚎r𝚘r🔮",
       "nameColor": "0xffa8e132",
       "role": "vicePresident",
-      "trophies": 28791,
+      "trophies": 28783,
       "icon": {
         "id": 28000151
-      }
-    },
-    {
-      "tag": "#800R8LPV2",
-      "name": "амбер",
-      "nameColor": "0xfff05637",
-      "role": "member",
-      "trophies": 28714,
-      "icon": {
-        "id": 28000156
-      }
-    },
-    {
-      "tag": "#R8VL8QGV",
-      "name": "hivan",
-      "nameColor": "0xfff9c908",
-      "role": "senior",
-      "trophies": 28469,
-      "icon": {
-        "id": 28000170
-      }
-    },
-    {
-      "tag": "#8PV8YJGQY",
-      "name": "maadd?",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 27427,
-      "icon": {
-        "id": 28000078
       }
     },
     {
@@ -262,19 +272,9 @@
       "name": "🌔lazzi 个",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 27144,
+      "trophies": 27313,
       "icon": {
         "id": 28000242
-      }
-    },
-    {
-      "tag": "#YVYCVGJGL",
-      "name": "Kotùkツ",
-      "nameColor": "0xffffffff",
-      "role": "senior",
-      "trophies": 25652,
-      "icon": {
-        "id": 28000382
       }
     },
     {
@@ -282,31 +282,21 @@
       "name": "¹MaFiyee🫀",
       "nameColor": "0xffffce89",
       "role": "vicePresident",
-      "trophies": 23356,
+      "trophies": 23353,
       "icon": {
         "id": 28000175
       }
     },
     {
-      "tag": "#8JV8GJ2JR",
-      "name": "Super Brawler",
-      "nameColor": "0xffcb5aff",
-      "role": "senior",
-      "trophies": 22338,
+      "tag": "#9YCPJQRVC",
+      "name": "Poma 2",
+      "nameColor": "0xffffce89",
+      "role": "vicePresident",
+      "trophies": 16391,
       "icon": {
-        "id": 28000129
-      }
-    },
-    {
-      "tag": "#YPRQCYPYR",
-      "name": "ТЫ ЧАВО НАДЕЛАЛ",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 17719,
-      "icon": {
-        "id": 28000280
+        "id": 28000284
       }
     }
   ],
-  "lastFetch": 1705184363513
+  "lastFetch": 1705441351445
 }

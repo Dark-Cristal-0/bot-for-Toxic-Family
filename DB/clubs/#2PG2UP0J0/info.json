@@ -5,14 +5,14 @@
   "type": "inviteOnly",
   "badgeId": 8000047,
   "requiredTrophies": 35000,
-  "trophies": 1529696,
+  "trophies": 1503829,
   "members": [
     {
       "tag": "#8VJC0YCLC",
       "name": "GL | Artem",
       "nameColor": "0xffcb5aff",
       "role": "senior",
-      "trophies": 62353,
+      "trophies": 62423,
       "icon": {
         "id": 28000014
       }
@@ -20,11 +20,11 @@
     {
       "tag": "#8U2Q0JC0J",
       "name": "feel like a god",
-      "nameColor": "0xff1ba5f5",
+      "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 61624,
+      "trophies": 61878,
       "icon": {
-        "id": 28000009
+        "id": 28000054
       }
     },
     {
@@ -32,7 +32,7 @@
       "name": "feel like a krs",
       "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 60286,
+      "trophies": 60350,
       "icon": {
         "id": 28000244
       }
@@ -42,7 +42,7 @@
       "name": "arsEny👻",
       "nameColor": "0xfff05637",
       "role": "vicePresident",
-      "trophies": 57651,
+      "trophies": 58098,
       "icon": {
         "id": 28000339
       }
@@ -50,11 +50,31 @@
     {
       "tag": "#Q28JG90CL",
       "name": "DirtyMarik™",
-      "nameColor": "0xffffffff",
+      "nameColor": "0xfff9c908",
       "role": "senior",
-      "trophies": 57363,
+      "trophies": 57849,
       "icon": {
         "id": 28000281
+      }
+    },
+    {
+      "tag": "#UYCR9C0J",
+      "name": "twitch: vezer04",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 56453,
+      "icon": {
+        "id": 28000364
+      }
+    },
+    {
+      "tag": "#L92CUJ8P8",
+      "name": "It's Grusha? 🍐",
+      "nameColor": "0xff4ddba2",
+      "role": "member",
+      "trophies": 54888,
+      "icon": {
+        "id": 28000162
       }
     },
     {
@@ -62,7 +82,7 @@
       "name": "MP|Zeembe4💻",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 54271,
+      "trophies": 54683,
       "icon": {
         "id": 28000132
       }
@@ -72,9 +92,19 @@
       "name": "lalkesha",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 53690,
+      "trophies": 54652,
       "icon": {
         "id": 28000112
+      }
+    },
+    {
+      "tag": "#R0YR00CP",
+      "name": "get big or die",
+      "nameColor": "0xfff05637",
+      "role": "member",
+      "trophies": 54004,
+      "icon": {
+        "id": 28000247
       }
     },
     {
@@ -82,9 +112,19 @@
       "name": "Nova | Nurutin",
       "nameColor": "0xff1ba5f5",
       "role": "president",
-      "trophies": 53568,
+      "trophies": 53884,
       "icon": {
         "id": 28000175
+      }
+    },
+    {
+      "tag": "#92GP2QLLC",
+      "name": "🇷🇺",
+      "nameColor": "0xffa8e132",
+      "role": "senior",
+      "trophies": 53657,
+      "icon": {
+        "id": 28000139
       }
     },
     {
@@ -92,7 +132,7 @@
       "name": "NaVi | Vapix",
       "nameColor": "0xff1ba5f5",
       "role": "member",
-      "trophies": 53505,
+      "trophies": 53554,
       "icon": {
         "id": 28000175
       }
@@ -102,9 +142,9 @@
       "name": "Den4ik_YT",
       "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 53149,
+      "trophies": 53146,
       "icon": {
-        "id": 28000132
+        "id": 28000347
       }
     },
     {
@@ -112,19 +152,9 @@
       "name": "люблю whspll💗",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 53087,
+      "trophies": 53082,
       "icon": {
         "id": 28000301
-      }
-    },
-    {
-      "tag": "#92GP2QLLC",
-      "name": "🇷🇺",
-      "nameColor": "0xffa8e132",
-      "role": "senior",
-      "trophies": 52631,
-      "icon": {
-        "id": 28000139
       }
     },
     {
@@ -132,29 +162,9 @@
       "name": "squwhysouf🎈",
       "nameColor": "0xffffce89",
       "role": "member",
-      "trophies": 52620,
+      "trophies": 53043,
       "icon": {
         "id": 28000348
-      }
-    },
-    {
-      "tag": "#99CUGGYP0",
-      "name": "Игорь",
-      "nameColor": "0xfff9c908",
-      "role": "member",
-      "trophies": 52590,
-      "icon": {
-        "id": 28000156
-      }
-    },
-    {
-      "tag": "#R0YR00CP",
-      "name": "get big or die",
-      "nameColor": "0xfff05637",
-      "role": "member",
-      "trophies": 51901,
-      "icon": {
-        "id": 28000247
       }
     },
     {
@@ -162,7 +172,7 @@
       "name": "eEnyDarth👻",
       "nameColor": "0xffffffff",
       "role": "vicePresident",
-      "trophies": 51715,
+      "trophies": 51834,
       "icon": {
         "id": 28000183
       }
@@ -170,11 +180,11 @@
     {
       "tag": "#202PJ82QJ",
       "name": "rensonn🩸夢をあきらめ",
-      "nameColor": "0xffffffff",
+      "nameColor": "0xffff8afb",
       "role": "vicePresident",
-      "trophies": 50835,
+      "trophies": 51736,
       "icon": {
-        "id": 28000299
+        "id": 28000265
       }
     },
     {
@@ -182,19 +192,19 @@
       "name": "Соколиный глаз",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 50195,
+      "trophies": 50356,
       "icon": {
         "id": 28000310
       }
     },
     {
-      "tag": "#JPU08V8",
-      "name": "ME | Beavies",
-      "nameColor": "0xffff8afb",
-      "role": "member",
-      "trophies": 50182,
+      "tag": "#P90Q8LY82",
+      "name": "bibi🇺🇦",
+      "nameColor": "0xffcb5aff",
+      "role": "senior",
+      "trophies": 47800,
       "icon": {
-        "id": 28000374
+        "id": 28000364
       }
     },
     {
@@ -202,9 +212,9 @@
       "name": "gromilapro",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 47123,
+      "trophies": 47723,
       "icon": {
-        "id": 28000259
+        "id": 28000175
       }
     },
     {
@@ -212,49 +222,29 @@
       "name": "GT|Silex™",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 47014,
+      "trophies": 47531,
       "icon": {
         "id": 28000254
       }
     },
     {
-      "tag": "#P90Q8LY82",
-      "name": "bibi🇺🇦",
-      "nameColor": "0xffffffff",
+      "tag": "#9CGG9LV2R",
+      "name": "дашулькинс 🇺🇦",
+      "nameColor": "0xffa2e3fe",
       "role": "senior",
-      "trophies": 46859,
+      "trophies": 47219,
       "icon": {
-        "id": 28000054
+        "id": 28000098
       }
     },
     {
       "tag": "#2L2R9UG",
       "name": "Kit",
-      "nameColor": "0xffcb5aff",
+      "nameColor": "0xffff8afb",
       "role": "member",
-      "trophies": 46580,
+      "trophies": 46901,
       "icon": {
         "id": 28000382
-      }
-    },
-    {
-      "tag": "#9CGG9LV2R",
-      "name": "дашулькинс 🇺🇦",
-      "nameColor": "0xfff05637",
-      "role": "senior",
-      "trophies": 46121,
-      "icon": {
-        "id": 28000263
-      }
-    },
-    {
-      "tag": "#8QY00JCUP",
-      "name": "Timur YT",
-      "nameColor": "0xffff9727",
-      "role": "member",
-      "trophies": 46088,
-      "icon": {
-        "id": 28000206
       }
     },
     {
@@ -272,7 +262,7 @@
       "name": "padeonex⚡",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 44805,
+      "trophies": 44862,
       "icon": {
         "id": 28000018
       }
@@ -282,7 +272,7 @@
       "name": "Кирилл",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 44099,
+      "trophies": 44120,
       "icon": {
         "id": 28000386
       }
@@ -292,7 +282,7 @@
       "name": "krvpivich",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 41419,
+      "trophies": 41551,
       "icon": {
         "id": 28000233
       }
@@ -302,11 +292,11 @@
       "name": "Wawa🥥夢をあきらめ",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 41281,
+      "trophies": 41461,
       "icon": {
         "id": 28000380
       }
     }
   ],
-  "lastFetch": 1705184363440
+  "lastFetch": 1705441351443
 }

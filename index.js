@@ -1,7 +1,7 @@
 const bot = require("./bot")
 const renderMessage = require("./util/renderMessage")
 
-  bot.brawlStars.fetch.allClubs()
+bot.brawlStars.fetch.allClubs()
 
 
 const clubObj ={
@@ -34,7 +34,7 @@ const clubObj ={
       new Promise((resolve, reject)=>{
         try{
         let i = _i
-        const textCmd = "/"+clubs[i].name.replace(" ","_")
+        const textCmd = "/"+clubs[i].name.replace(" ","_").toLocaleLowerCase()
         const reg = new RegExp(textCmd)
         console.log(textCmd)
         const tag = clubs[i].tag
@@ -59,13 +59,35 @@ const clubObj ={
 
 }
 clubObj.updateClubs()
+clubObj.updateArrPromise()
+
+let commands = [
+  
+]
+for(let el of clubObj.arrPromise){
+  commands.push(
+    {command:el.comand,description:"print club info"}
+  )
+}
+bot.setMyCommands(commands)
+
+console.log(commands)
+
 
 setInterval(()=>{
   bot.brawlStars.fetch.allClubs()
   clubObj.updateClubs()
+  clubObj.updateArrPromise()
+  commands = []
+  for(let el of clubObj.arrPromise){
+    commands.push(
+      {command:el.comand,description:"print club info"}
+    )
+  }
+  
 },1000*60*60)
 
-clubObj.updateArrPromise()
+
 
 
 bot.onText(/\/js ?(.*)/sg,(msg, match)=>{

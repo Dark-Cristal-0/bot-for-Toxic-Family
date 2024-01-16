@@ -5,16 +5,16 @@
   "type": "inviteOnly",
   "badgeId": 8000024,
   "requiredTrophies": 35000,
-  "trophies": 1024217,
+  "trophies": 1102570,
   "members": [
     {
       "tag": "#QPVLVPLU",
       "name": "Brawl Power",
       "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 51179,
+      "trophies": 51581,
       "icon": {
-        "id": 28000170
+        "id": 28000378
       }
     },
     {
@@ -22,7 +22,7 @@
       "name": "QWE | Vitalik🦈",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 46346,
+      "trophies": 46982,
       "icon": {
         "id": 28000038
       }
@@ -32,19 +32,19 @@
       "name": "NaVi|Poltava",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 46257,
+      "trophies": 46495,
       "icon": {
         "id": 28000090
       }
     },
     {
-      "tag": "#9CRU2LPL9",
-      "name": "𝙎𝙪𝙥𝙧𝙖❦︎",
-      "nameColor": "0xffffffff",
+      "tag": "#90LJU22RG",
+      "name": "Дэррил",
+      "nameColor": "0xffa8e132",
       "role": "member",
-      "trophies": 45422,
+      "trophies": 43894,
       "icon": {
-        "id": 28000139
+        "id": 28000294
       }
     },
     {
@@ -52,19 +52,9 @@
       "name": "🇺🇦Соня",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 42847,
+      "trophies": 42887,
       "icon": {
         "id": 28000273
-      }
-    },
-    {
-      "tag": "#90LJU22RG",
-      "name": "Дэррил",
-      "nameColor": "0xffff9727",
-      "role": "member",
-      "trophies": 42753,
-      "icon": {
-        "id": 28000294
       }
     },
     {
@@ -72,19 +62,19 @@
       "name": "=Miki=",
       "nameColor": "0xffff9727",
       "role": "member",
-      "trophies": 41838,
+      "trophies": 41906,
       "icon": {
         "id": 28000221
       }
     },
     {
-      "tag": "#2GV9P98PL",
-      "name": "BS|tima",
-      "nameColor": "0xff1ba5f5",
-      "role": "senior",
-      "trophies": 39478,
+      "tag": "#PJJ0L08U9",
+      "name": "Death_Dun",
+      "nameColor": "0xffcb5aff",
+      "role": "member",
+      "trophies": 41097,
       "icon": {
-        "id": 28000380
+        "id": 28000335
       }
     },
     {
@@ -92,19 +82,29 @@
       "name": "𝓚𝓲𝓷𝓰☭",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 39252,
+      "trophies": 39478,
       "icon": {
         "id": 28000037
       }
     },
     {
-      "tag": "#2G2VJ09R9",
-      "name": "деня",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 38349,
+      "tag": "#2GV9P98PL",
+      "name": "BS|tima",
+      "nameColor": "0xff1ba5f5",
+      "role": "senior",
+      "trophies": 39467,
       "icon": {
-        "id": 28000382
+        "id": 28000380
+      }
+    },
+    {
+      "tag": "#8P8RV9J08",
+      "name": "🥷1ndaster😶‍🌫",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 38598,
+      "icon": {
+        "id": 28000285
       }
     },
     {
@@ -112,9 +112,19 @@
       "name": "NT|FURCHATIY",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 38137,
+      "trophies": 38372,
       "icon": {
         "id": 28000303
+      }
+    },
+    {
+      "tag": "#PGUUPLR8P",
+      "name": "Сірожа",
+      "nameColor": "0xfff9c908",
+      "role": "member",
+      "trophies": 38118,
+      "icon": {
+        "id": 28000380
       }
     },
     {
@@ -122,7 +132,7 @@
       "name": "Øbеrуn Маrtеll⚔",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 37820,
+      "trophies": 37940,
       "icon": {
         "id": 28000022
       }
@@ -132,7 +142,7 @@
       "name": "NAVI|CYN",
       "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 37762,
+      "trophies": 37834,
       "icon": {
         "id": 28000045
       }
@@ -142,9 +152,39 @@
       "name": "лягушка2g709",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 37180,
+      "trophies": 37721,
       "icon": {
-        "id": 28000248
+        "id": 28000016
+      }
+    },
+    {
+      "tag": "#RPUGJG9V",
+      "name": "LikeDon",
+      "nameColor": "0xff1ba5f5",
+      "role": "member",
+      "trophies": 37119,
+      "icon": {
+        "id": 28000170
+      }
+    },
+    {
+      "tag": "#8LYPYCR9G",
+      "name": "Андрей",
+      "nameColor": "0xffffffff",
+      "role": "member",
+      "trophies": 36460,
+      "icon": {
+        "id": 28000132
+      }
+    },
+    {
+      "tag": "#8R89YYQ89",
+      "name": "назар бро",
+      "nameColor": "0xffa2e3fe",
+      "role": "member",
+      "trophies": 36333,
+      "icon": {
+        "id": 28000285
       }
     },
     {
@@ -152,7 +192,7 @@
       "name": "Vitalik",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 36240,
+      "trophies": 36312,
       "icon": {
         "id": 28000170
       }
@@ -162,39 +202,19 @@
       "name": "⚡️xd | FluZz⚡️",
       "nameColor": "0xff4ddba2",
       "role": "member",
-      "trophies": 36177,
+      "trophies": 36157,
       "icon": {
         "id": 28000368
       }
     },
     {
-      "tag": "#8QQRGY2Y",
-      "name": "QLS|Andertale",
-      "nameColor": "0xfff9c908",
+      "tag": "#2R0Q9J9VP",
+      "name": "MTT|Mortis🏯",
+      "nameColor": "0xffcb5aff",
       "role": "member",
-      "trophies": 36134,
+      "trophies": 36084,
       "icon": {
-        "id": 28000184
-      }
-    },
-    {
-      "tag": "#8R89YYQ89",
-      "name": "назар бро",
-      "nameColor": "0xffa2e3fe",
-      "role": "member",
-      "trophies": 35952,
-      "icon": {
-        "id": 28000285
-      }
-    },
-    {
-      "tag": "#PVJLR820Y",
-      "name": "☔️ッToP4iK™kg ☔",
-      "nameColor": "0xffa8e132",
-      "role": "member",
-      "trophies": 35509,
-      "icon": {
-        "id": 28000309
+        "id": 28000095
       }
     },
     {
@@ -202,19 +222,9 @@
       "name": "believe|kill🥀",
       "nameColor": "0xffa2e3fe",
       "role": "member",
-      "trophies": 35505,
+      "trophies": 35657,
       "icon": {
         "id": 28000141
-      }
-    },
-    {
-      "tag": "#29L8CRJGU",
-      "name": "LeGeNdA :)",
-      "nameColor": "0xffffffff",
-      "role": "member",
-      "trophies": 35416,
-      "icon": {
-        "id": 28000139
       }
     },
     {
@@ -222,19 +232,29 @@
       "name": "(лега)ворон",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 35159,
+      "trophies": 35608,
       "icon": {
         "id": 28000179
       }
     },
     {
-      "tag": "#QP2099JVU",
-      "name": "•BANDERA•",
-      "nameColor": "0xfff05637",
+      "tag": "#29L8CRJGU",
+      "name": "LeGeNdA :)",
+      "nameColor": "0xffffffff",
       "role": "member",
-      "trophies": 34354,
+      "trophies": 35543,
       "icon": {
-        "id": 28000132
+        "id": 28000139
+      }
+    },
+    {
+      "tag": "#PVJLR820Y",
+      "name": "☔️ッToP4iK™kg ☔",
+      "nameColor": "0xffa8e132",
+      "role": "member",
+      "trophies": 35541,
+      "icon": {
+        "id": 28000309
       }
     },
     {
@@ -242,7 +262,7 @@
       "name": "топ.плеир",
       "nameColor": "0xfff05637",
       "role": "senior",
-      "trophies": 32174,
+      "trophies": 32166,
       "icon": {
         "id": 28000210
       }
@@ -252,7 +272,7 @@
       "name": "🍀Lucky🗿",
       "nameColor": "0xfff9c908",
       "role": "member",
-      "trophies": 30638,
+      "trophies": 30757,
       "icon": {
         "id": 28000341
       }
@@ -262,7 +282,7 @@
       "name": "НУБ",
       "nameColor": "0xfff05637",
       "role": "member",
-      "trophies": 30594,
+      "trophies": 30718,
       "icon": {
         "id": 28000374
       }
@@ -278,5 +298,5 @@
       }
     }
   ],
-  "lastFetch": 1705184363448
+  "lastFetch": 1705441351632
 }
